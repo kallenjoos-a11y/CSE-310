@@ -1,0 +1,42 @@
+categories
+- id for each category
+
+- name of category
+    - data type -> text
+
+- type (fun, future...)
+
+allocation table 
+- foreign key of category_id
+- percentage of paycheck
+    - data type -> percentage?
+
+
+transactions
+- transaction id
+
+- category it's pulling from -> eventually a drop down list needs foreign key of categories_id 
+
+    - sub table accounts pulled from
+        - transaction id foreign key
+        - transaction price
+        - category its pulling from
+
+- description (nullable)
+    - data type -> text
+
+- image (nullable)
+    - data type -> image (how do we do this?)
+
+- date of purchase (non nullable)
+    - data type -> date
+
+
+ongoing payments table
+    - category its pulling from as foreign key
+    - how often (potential sub table? I don't know)
+            - data type -> int? there's got to be a better one
+
+
+
+

@@ -31,8 +31,13 @@ The expected minimum amount of time each Sprint for each category is as follows:
 | 9/22/26  | 5:25pm   |  IM    |Worked on the framework for budget project  |   1 hr      |
 | 9/23/26  | 10:15am  |  TP    |Researched and worked on learning AI        |   1 hr      |
 | 9/23/26  | 3:30pm   |  IM    |Created MD file                             |   30 min    |
-|          |          |        |                                            |             |
-|          |          |        |                                            |             |
+| 9/25/26. | 10:15am  |  MTG   |Talked through the project                  |   1 hr.     |
+| 9/25/26  | 2:30pm   |  IM    |Worked on the database structure            |   2 hr 15min|
+| 9/28/26  | 10:15am  |  MTG   |                                            |   1 hr      |
+| 9/29/26  | 8:15pm   |  TP    |                                            |   1 hr      |
+| 9/30/26  | 10:15am. |. TP.   |Presented our project in class.             |.  1 hr.     |
+| 9/30/26. | 8:00pm.  |  IM    |Worked on the database strucutre more.      |   1 hr 15min|
+
 
 _Note: Add more rows as needed._
 
