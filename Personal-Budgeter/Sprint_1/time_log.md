@@ -37,6 +37,10 @@ The expected minimum amount of time each Sprint for each category is as follows:
 | 9/29/26  | 8:15pm   |  TP    |                                            |   1 hr      |
 | 9/30/26  | 10:15am. |. TP.   |Presented our project in class.             |.  1 hr.     |
 | 9/30/26. | 8:00pm.  |  IM    |Worked on the database strucutre more.      |   1 hr 15min|
+| 10/1/26  | 7:00pm   |  IM    |Worked on connecting the database and react |.  1 hr      |
+| 10/2/26  | 3:00pm   |. IM    |Worked on the interface design              |   2 hr      |
+| 10/3/26  | 4:15pm   |  TP.   |Worked on the logo and photo adding feature |.  1 hr.     |
+
 
 
 _Note: Add more rows as needed._
@@ -45,7 +49,7 @@ _Note: Add more rows as needed._
 
 |Categroy                       |Total Time (Hours:Minutes)|
 |-------------------------------|:------------------------:|
-|IM - Individual Module         |                          |
-|TP - Team Project              |                          |
-|MTG - Class Meetings           |                          |
-|**TOTAL**                      |                          |
+|IM - Individual Module         | 8hr                      |
+|TP - Team Project              | 4hr                      |
+|MTG - Class Meetings           | 4hr                      |
+|**TOTAL**                      | 16hr                     |
